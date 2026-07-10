@@ -1,0 +1,10 @@
+{
+  "app_enabled": true,
+  "min_version_code": 13,
+  "update_url": "https://play.google.com/store/apps/details?id=com.radiusfm.rd.dev",
+  "support_url": "https://t.me/radius_fm",
+  "disabled_title_ru": "Технические работы",
+  "disabled_message_ru": "Приложение временно недоступно. Мы проводим плановое обновление серверов вещания. Пожалуйста, попробуйте зайти позже!",
+  "disabled_title_en": "Maintenance Mode",
+  "disabled_message_en": "The application is temporarily unavailable. We are performing scheduled server maintenance. Please try again later."
+}
